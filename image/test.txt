@@ -1,1 +1,2 @@
 test file for uploading images
+all images are to be uploaded in this folder
