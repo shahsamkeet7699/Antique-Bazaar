@@ -1,2 +1,0 @@
-test folder for uploading all js files
-All JS files to be uploaded here
